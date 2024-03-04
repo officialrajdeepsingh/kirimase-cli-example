@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1709473853224,
+      "tag": "0000_concerned_molten_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1709475082350,
+      "tag": "0001_hard_captain_america",
+      "breakpoints": true
+    }
+  ]
+}
