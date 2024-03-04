@@ -1,6 +1,7 @@
-## Getting Started
+# Getting Started
 
-First, clone the repository on GitHub. 
+First, clone the repository on GitHub. I have already written the article. To learn more: [How to build a full-stack website with Nextjs more quickly?](https://medium.com/frontendweb/how-to-build-a-full-stack-website-with-nextjs-more-quickly-a9a20fdf07e0)
+
 
 ```bash
 git clone https://github.com/officialrajdeepsingh/kirimase-cli-example.git
