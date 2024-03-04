@@ -15,8 +15,6 @@ export default async function LandingPage() {
 
   const { posts } = await getPosts();
   
-  console.log("my posts", posts)
-  
   return (
     <div className="flex flex-col min-h-screen">
       <div className="container mx-auto my-12">
